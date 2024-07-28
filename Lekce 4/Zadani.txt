@@ -1,0 +1,1 @@
+Vytvořte proměnnou a. Dosaďte do ní libovolné celé číslo. Zkuste pomocí operace modulo (%) zjistit, zda je číslo sudé, nebo liché. 
