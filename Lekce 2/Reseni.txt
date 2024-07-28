@@ -1,0 +1,17 @@
+1) 
+   a) float
+   b) int
+   c) bool
+   d) str
+   e) str
+   f) str
+   g) str
+   h) bool
+   i) bool
+ 	
+2) Jaké datové typy budou mít: 
+   a) float
+   b) int
+   c) ERROR (Nemá to datový typ, nelze takto převést)
+   d) ERROR (Stringy se nemohou vzájemně násobit)
+   e) str
