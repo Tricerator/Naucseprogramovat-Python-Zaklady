@@ -1,0 +1,24 @@
+1) Jmenuj datové typy těchto prvků:
+   a) 2.21
+   b) 17525
+   c) False
+   d) "True"
+   e) "25"
+   f) '17.35'
+   g) "Ahoj " + "světe"
+   h) 5 > 8
+   i) True 	
+2) Jaké datové typy budou mít: 
+   a) int + float
+   b) bool + bool
+   c) int + str
+   d) str * str
+   e) str * int
+
+
+pozn. str a string jsou zaměnitelné pojmy, 
+python zná str, string je tento typ celým názvem. 
+
+
+Pro odpověď můžete použít funkci print(type(X))
+příklad: print(type(5 + 3*12.4 - True))
