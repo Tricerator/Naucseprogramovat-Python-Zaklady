@@ -9,7 +9,7 @@
    h) bool
    i) bool
  	
-2) Jaké datové typy budou mít: 
+2)
    a) float
    b) int
    c) ERROR (Nemá to datový typ, nelze takto převést)
